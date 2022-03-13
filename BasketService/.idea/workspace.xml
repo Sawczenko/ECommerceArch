@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="669e8ca0-05ac-4343-937b-e271288703d8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngularClient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AngularClient/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasketServiceJava.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdentityService/Core/Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../IdentityService/Core/Core.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdentityService/IdentityServer/Controllers/AccountController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../IdentityService/IdentityServer/Controllers/AccountController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdentityService/IdentityServer/Extensions/IdentityServiceExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../IdentityService/IdentityServer/Extensions/IdentityServiceExtensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdentityService/IdentityServer/IdentityServer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../IdentityService/IdentityServer/IdentityServer.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdentityService/IdentityServer/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../IdentityService/IdentityServer/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdentityService/Infrastructure/Infrastructure.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../IdentityService/Infrastructure/Infrastructure.csproj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="25QC595XNu8IOPC7wtrq4XoQQ68" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="669e8ca0-05ac-4343-937b-e271288703d8" name="Changes" comment="" />
+      <created>1645449736527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645449736527</updated>
+      <workItem from="1645449737746" duration="19000" />
+      <workItem from="1646061684690" duration="92000" />
+      <workItem from="1646864333186" duration="3000" />
+      <workItem from="1646935943992" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
